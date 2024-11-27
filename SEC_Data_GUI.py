@@ -1,3 +1,10 @@
+# Search box for ticker
+# drop down for financial statement
+# text box for min date
+# text box for max date.
+# once the user puts a ticker in, it will do a sql query to grab that data
+# No other options on the window until it grabs the data and puts it to the screen
+
 import tkinter as tk
 from tkinter import ttk
 import matplotlib.pyplot as plt
